@@ -74,6 +74,8 @@ An effective recovery plan may divide the property into work zones, protect unaf
 
 ## Commercial Water Damage Resources
 
+* [Commercial Water Damage Emergency Response Checklist](emergency-response-checklist.md) — Immediate safety, documentation, notification and recovery steps for commercial properties.
+
 Explore commercial restoration guidance, emergency planning and building-recovery information at:
 
 [CommercialWaterDamage.co](https://commercialwaterdamage.co/)
