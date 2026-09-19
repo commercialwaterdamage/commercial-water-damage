@@ -3,7 +3,7 @@ site_description: Commercial water-damage response, structural drying and buildi
 site_url: https://commercial-water-damage.readthedocs.io/
 repo_url: https://github.com/commercialwaterdamage/commercial-water-damage
 
-docs_dir: .
+docs_dir: docs
 
 nav:
   - Commercial Water Damage: README.md
