@@ -1,0 +1,13 @@
+site_name: Commercial Water Damage
+site_description: Commercial water-damage response, structural drying and building-recovery resources.
+site_url: https://commercial-water-damage.readthedocs.io/
+repo_url: https://github.com/commercialwaterdamage/commercial-water-damage
+
+docs_dir: .
+
+nav:
+  - Commercial Water Damage: README.md
+  - Emergency Response Checklist: emergency-response-checklist.md
+
+theme:
+  name: readthedocs
